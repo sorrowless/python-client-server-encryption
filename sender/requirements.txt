@@ -1,0 +1,9 @@
+certifi==2019.9.11
+chardet==3.0.4
+dict2xml==1.5
+idna
+json2xml==3.0.1
+requests
+six==1.11.0
+urllib3
+xmltodict==0.11.0
